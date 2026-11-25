@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cairofrequency.github.io/cairo-frequency/sitemap.xml
